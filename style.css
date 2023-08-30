@@ -1,0 +1,26 @@
+.box{
+    height: 300px;
+    width:300px;
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+h1{
+    color: aquamarine;
+    font-style: italic;
+}
+#btn{
+    background-color: antiquewhite;
+    color:cadetblue;
+    border: 2px solid cadetblue;
+    border-radius: 20%;
+    height: 40px;
+    width:60px;
+    font-size:1.52rem;
+    margin-right:200px;
+}
+#result{
+    color: cadetblue;
+}
